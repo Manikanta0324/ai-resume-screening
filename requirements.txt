@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pypdf
+numpy
+faiss-cpu
+sentence-transformers
+jinja2
+python-multipart
